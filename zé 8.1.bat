@@ -1,0 +1,1 @@
+shutdown /r /t 240 /c "Seu Presente de Aniversario do seu aluno que testa ate onde sua paciencia vai"
